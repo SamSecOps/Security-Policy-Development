@@ -13,7 +13,7 @@ The repository reflects practical knowledge in developing administrative securit
 The policy library currently includes:
 
 * Artificial Intelligence Standard
-* Acceptable Use Standard
+* Acceptable Use Standard [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Acceptable_Use_Standard_SamSecOps.docx]
 * Access Management Policy
 * Cloud Service Provider Management Policy
 * Identity Management Policy
