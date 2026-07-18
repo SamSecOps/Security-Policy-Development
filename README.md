@@ -12,15 +12,15 @@ The repository reflects practical knowledge in developing administrative securit
 
 The policy library currently includes:
 
-* Artificial Intelligence Standard [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Artificial_Intelligence_Standard_SamSecOps.docx]
-* Acceptable Use Standard [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Acceptable_Use_Standard_SamSecOps.docx]
-* Access Management Policy [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Access_Management_Policy_SamSecOps.docx]
-* Cloud Service Provider Management Policy [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Cloud_Service_Provider_Management_Policy_SamSecOps.docx]
-* Identity Management Policy [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Identity_Management_Policy_SamSecOps.docx]
-* Network Device Management Policy [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Network_Device_Management_Policy_SamSecOps.docx]
-* Password Construction Standard [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Password_Construction_Standard_SamSecOps.docx]
-* Physical Security Management Policy [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Physical_Security_Management_Policy_SamSecOps.docx]
-* Safeguard Validation Management [https://github.com/Psalms1234/Security-Policy-Development/blob/main/Organizational%20Policies/Safeguard_Validation_Management_Policy_feb2026.docx]
+* Artificial Intelligence Standard [https://github.com/SamSecOps/Security-Policy-Development/blob/main/Organizational%20Policies/Artificial_Intelligence_Standard_SamSecOps.docx]
+* Acceptable Use Standard [https://github.com/SamSecOps/Security-Policy-Development/blob/main/Organizational%20Policies/Acceptable_Use_Standard_SamSecOps.docx]
+* Access Management Policy [https://github.com/SamSecOps/Security-Policy-Development/blob/main/Organizational%20Policies/Access_Management_Policy_SamSecOps.docx]
+* Cloud Service Provider Management Policy [https://github.com/SamSecOps/Security-Policy-Development/blob/main/Organizational%20Policies/Cloud_Service_Provider_Management_Policy_SamSecOps.docx]
+* Identity Management Policy [https://github.com/SamSecOps/Security-Policy-Development/blob/main/Organizational%20Policies/Identity_Management_Policy_SamSecOps.docx]
+* Network Device Management Policy [https://github.com/SamSecOps/Security-Policy-Development/blob/main/Organizational%20Policies/Network_Device_Management_Policy_SamSecOps.docx]
+* Password Construction Standard [https://github.com/SamSecOps/Security-Policy-Development/blob/main/Organizational%20Policies/Password_Construction_Standard_SamSecOps.docx]
+* Physical Security Management Policy [https://github.com/SamSecOps/Security-Policy-Development/blob/main/Organizational%20Policies/Physical_Security_Management_Policy_SamSecOps.docx]
+* Safeguard Validation Management [https://github.com/SamSecOps/Security-Policy-Development/blob/main/Organizational%20Policies/Safeguard_Validation_Management_Policy_feb2026.docx]
 
 ## Demonstrated Competencies
 
